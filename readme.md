@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
+# <h1 align="center">Laporan Praktikum Modul Priority Queue & Heaps</h1>
 <p align="center">Fahmi Hidayat</p>
 
 ## Dasar Teori
